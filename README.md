@@ -1,6 +1,6 @@
 # Selenium Test Odev
  Migros Project
- 
+  
 
  
 [Migros](https://www.migros.com.tr/) , e-ticaret sitesi  senaryolarla test edildi.
