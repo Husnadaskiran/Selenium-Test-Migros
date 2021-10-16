@@ -1,7 +1,7 @@
 # Selenyum Test Migros
  Migros Project
  
- # Selenium Web Otomasyon Projesi 
+
  
 [Migros](https://www.migros.com.tr/) , e-ticaret sitesi  senaryolarla test edildi.
 
